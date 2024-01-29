@@ -114,4 +114,4 @@ You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815
 11. **Web Scrapping**
     - [Beautiful Soup](https://youtu.be/taL3r_JpwBg?si=larplvRUIMhH4BSP)
 
-
+> For Practice Use [Kaggle](https://www.kaggle.com/learn) Or [Datawars](https://app.datawars.io/)
