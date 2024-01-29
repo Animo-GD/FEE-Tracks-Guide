@@ -13,7 +13,7 @@ In This Repository You will find Tracks suitable for you with resources to study
 ![App Screenshot](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 **This Road map is made for anyone who wants to start learning Data Analysis from the beginning \
-no Prerequisite Knowledge Is Needed** \
+no Prerequisite Knowledge Is Needed** 
 
 ## Agenda
 1. What is Data Analysis?
