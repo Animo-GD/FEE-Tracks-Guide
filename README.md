@@ -48,7 +48,6 @@ When you possess a combination of the following skills.
 3. **Statistical Knowledge**:
   understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
 
--------------------------------------
 ## Data Analyst Jobs in Egypt.
 There is a high demand for a data analyst role in Egypt especially in companies like Orange and Vodafone and other companies that depend on Developing strategies and production plans for the company’s development
 You can check [LinkedIn](https://www.linkedin.com/jobs/search/?currentJobId=3815780472&keywords=Data%20analyst%20&origin=SWITCH_SEARCH_VERTICAL) for this job or [Wuzzif](https://wuzzuf.net/a/Data-Analyst-Jobs-in-Egypt)
