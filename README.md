@@ -37,9 +37,18 @@ no Prerequisite Knowledge Is Needed**
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
  - [Check This Video To Know More](https://www.youtube.com/watch?v=VykLcJ0kdB4&t=244s)
 ## When are you ready for a real job?
-Being ready for a real job is a challenging thing, but how can I know that I'm ready?
-As a Data Analyst, your job is represented in many points that you should be good at.
-After being good at these points you can get a real job, so now I will explain what points I'm talking about.
+When you possess a combination of the following skills.
+1. **Technical Skills**:
+- Querying Data With SQL
+- Data Visualization
+- Data Exploration And Analytics
+- Data Story Telling And Reporting
+2. **Analytical Skills**:
+  have a strong aptitude for problem-solving and critical thinking, with the ability to analyze complex datasets, identify trends, and derive insights that can inform business decisions.
+3. **Statistical Knowledge**:
+  understand basic statistical concepts and methods, such as hypothesis testing, regression analysis, and probability theory
+
+-------------------------------------
 1. Knowing the Difference between XML, CSV, Jason, and Database.\
    As a Data Analyst, you are collecting the data so the data may be in a different formates like mentioned above.
    - [XML](https://www.youtube.com/watch?v=3WLKXzTCWEs)
