@@ -6,7 +6,7 @@ In This Repository You will find Tracks suitable for you with resources to study
 -------------
 # Tracks
 - [Data Analysis](https://github.com/Animo-GD/FEE-Tracks-Guide/blob/main/README.md#data-analyst-roadmap-).
-
+- [Data Science]
 -------------
 
 # Data Analyst Roadmap 📊
